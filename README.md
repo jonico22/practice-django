@@ -2,7 +2,7 @@
 
 Prueba realizada en entorno de windows con wsl2 - ubuntu
 
-actualizar la distribucion de windows
+ingresar al entorno de ubuntu y actualizar la distribucion 
 
 `sudo apt update`
 
