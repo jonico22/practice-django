@@ -20,10 +20,10 @@ crear la carpeta de tu proyecto y luego crear el entorno virtual
 
 luego activamos el entorno virtual
 
-source venv/bin/activate
+`source venv/bin/activate`
 
-desde comenzar instalar las librerias que necesita tu proyecto
+desde ahi puedes comenzar instalar las librerias que necesita tu proyecto
 
 si deseas guardar tus librerias que utilizas en archivo txt solo debes presionar el siguiente comando
 
-pip freeze > requirements.txt
+`pip freeze > requirements.txt`
